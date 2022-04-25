@@ -6,7 +6,7 @@
 
     <groupId>com.shruti</groupId>
     <artifactId>docker-jenkins-integration</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.16.22</version>
 
     <build>
         <finalName>docker-jenkins-integration</finalName>
